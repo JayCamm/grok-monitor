@@ -1,8 +1,0 @@
-[
-  "tests/test_monitor.py::test_mlp_kill_rule",
-  "tests/test_monitor.py::test_pr_coherent",
-  "tests/test_monitor.py::test_pr_fragmented",
-  "tests/test_monitor.py::test_pr_monitor_window",
-  "tests/test_monitor.py::test_rules_are_frozen",
-  "tests/test_monitor.py::test_transformer_kill_rule"
-]
